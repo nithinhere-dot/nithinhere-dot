@@ -73,7 +73,7 @@ Security: JWT-based authentication, input validation, protected API routes, and 
 </details>
 
 
-<details> <summary><b>🔹 Project One — DevConnect</b></summary> <br/>
+<details> <summary><b>🔹 Project Two — DevConnect</b></summary> <br/>
 
 Stack: React.js, Node.js, Express.js, MongoDB, JWT, GitHub API, REST APIs
 
