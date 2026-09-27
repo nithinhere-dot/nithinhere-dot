@@ -44,10 +44,6 @@ My approach centers on writing clean, maintainable code, designing systems that 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-**Cloud / DevOps / Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
-
 ---
 
 ## AI / ML Expertise
@@ -64,103 +60,30 @@ My approach centers on writing clean, maintainable code, designing systems that 
 
 ## Featured Projects
 
-<details>
-<summary><b>🔹 Project One — AI-Powered Application</b></summary>
-<br/>
+<details> <summary><b>🔹 Project One — Reclaim</b></summary> <br/>
 
-**Stack:** React.js, Node.js, Express.js, MongoDB, Python (ML service)
-**Scale:** Designed for multi-user concurrent access with modular service architecture
-**Performance:** Optimized API response times via indexed queries and caching strategy
-**Security:** JWT-based authentication, input validation, and environment-secured credentials
+Stack: React.js, Node.js, Express.js, MongoDB, REST APIs
 
-</details>
+Architecture: Full-stack application with separate frontend and backend services, designed with a modular architecture for maintainability and scalability
 
-<details>
-<summary><b>🔹 Project Two — Full Stack Web Platform</b></summary>
-<br/>
+Performance: Optimized client-server communication and database operations for efficient application performance
 
-**Stack:** JavaScript, React.js, Express.js, MySQL
-**Scale:** RESTful architecture supporting modular feature expansion
-**Performance:** Reduced load times through lazy loading and query optimization
-**Security:** Role-based access control and sanitized data handling
+Security: JWT-based authentication, input validation, protected API routes, and environment-secured credentials
 
 </details>
 
-<details>
-<summary><b>🔹 Project Three — Data/ML Pipeline</b></summary>
-<br/>
 
-**Stack:** Python, Pandas, Scikit-learn
-**Scale:** Batch-processing pipeline built for extensibility across datasets
-**Performance:** Streamlined preprocessing to cut training iteration time
-**Security:** Isolated data handling with controlled access to raw datasets
+<details> <summary><b>🔹 Project One — DevConnect</b></summary> <br/>
+
+Stack: React.js, Node.js, Express.js, MongoDB, JWT, GitHub API, REST APIs
+
+Architecture: Full-stack developer community application with separate frontend and backend services, featuring authentication, developer profiles, posts, likes, comments, follow relationships, feed filtering, and search
+
+Performance: Optimized MongoDB queries for posts, follows, likes, comments, and user search; integrated GitHub's public repositories endpoint to display real repository data on profiles
+
+Security: JWT-based authentication, password hashing, protected routes, server-side ownership checks for profiles, posts, and comments, and uniqueness constraints to prevent duplicate likes
 
 </details>
-
-> Replace the placeholders above with your actual repositories, metrics, and links.
-
----
-
-## Experience
-
-**Software Engineer (AI/ML & Full Stack)** — *Company Name*
-`Month Year – Present`
-- Designed and built full-stack features spanning React frontends and Node/Express backends
-- Contributed to AI/ML components integrated into production workflows
-- Collaborated on system design decisions balancing performance and scalability
-
-`JavaScript` `Python` `React.js` `Node.js` `MongoDB`
-
----
-
-**Software Engineering Intern** — *Company Name*
-`Month Year – Month Year`
-- Built and maintained REST APIs consumed by frontend applications
-- Assisted in data pipeline development for ML model training
-
-`Java` `MySQL` `Express.js` `Git`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Achievement | Description |
-|:---:|:---|
-| 🏆 Placeholder Award | Description of the achievement |
-| 🥇 Placeholder Recognition | Description of the achievement |
-| 📈 Placeholder Metric | Quantified outcome or milestone |
-
-</div>
-
----
-
-## Certifications
-
-**Provider: Coursera / Google / AWS**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Certified-6D28D9?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-Certified-7C3AED?style=flat-square&labelColor=1a1a2e" />
-
-**Provider: Other**
-
-<img src="https://img.shields.io/badge/Python%20Programming-Certified-4C1D95?style=flat-square&labelColor=1a1a2e" />
-
-> Replace with your actual certifications and badge links.
-
----
-
-## Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/nithinhere-dot"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
-<a href="https://www.hackerrank.com/nithinhere-dot"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=A78BFA" /></a>
-<a href="https://www.codechef.com/users/nithinhere-dot"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=A78BFA" /></a>
-<a href="https://www.geeksforgeeks.org/user/nithinhere-dot"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA" /></a>
-</p>
-
-> Update each profile URL to match your actual usernames.
 
 ---
 
@@ -179,54 +102,24 @@ My approach centers on writing clean, maintainable code, designing systems that 
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithinhere-dot&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinhere-dot&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=7C3AED&point=E9D5FF" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nithinhere-dot/nithinhere-dot/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> Generated via the [platane/snk](https://github.com/Platane/snk) GitHub Action — set up the workflow in your profile repo to activate this.
-
----
 
 ## Current Focus
 
 ```yaml
-current_focus:
+Current Focus
   learning:
-    - Advanced Machine Learning architectures
-    - System design for scalable applications
+    - LangChain and AI/ML fundamentals
+    - Docker 
   building:
-    - AI-integrated full-stack web applications
-    - Backend services with Node.js and Express.js
+    - DevConnect — a full-stack developer social platform (React, Node.js, Express, MongoDB)
+    - Reclaim — a two-sided waste management marketplace application
   exploring:
-    - Cloud deployment and DevOps practices
-    - MLOps and model deployment pipelines
+    - Deployment and hosting (Render, Vercel)
+    - Environment configuration and production-readiness practices
 ```
 
----
 
 ## Connect
 
