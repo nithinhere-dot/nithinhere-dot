@@ -19,7 +19,7 @@
 
 ## About
 
-I'm an engineer focused on **AI/ML systems** and **full-stack product development**, working at the intersection of intelligent models and scalable web architecture. I build end-to-end products — from data pipelines and model training to production-grade APIs and responsive frontends.
+I'm an engineer focused on **AI/ML systems** and **full-stack product development**, working at the intersection of intelligent models and scalable web architecture. I build end-to-end products  from data pipelines and model training to production-grade APIs and responsive frontends.
 
 My approach centers on writing clean, maintainable code, designing systems that scale, and applying machine learning to solve real, measurable problems. I care about performance, security, and shipping software that holds up under real-world load.
 
@@ -111,20 +111,6 @@ Security: JWT-based authentication, password hashing, protected routes, server-s
 <a href="https://git.io/streak-stats">
 
 <img src="https://streak-stats.demolab.com/?user=nithinhere-dot&theme=radical&hide_border=true&background=0D0221&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="60%" />
-
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithinhere-dot&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </a>
 
