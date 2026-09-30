@@ -23,10 +23,10 @@ I'm an engineer focused on **AI/ML systems** and **full-stack product developmen
 
 My approach centers on writing clean, maintainable code, designing systems that scale, and applying machine learning to solve real, measurable problems. I care about performance, security, and shipping software that holds up under real-world load.
 
-- 🔭 Currently building AI-augmented full-stack applications
-- 🌱 Deepening expertise in applied machine learning and system design
-- 💬 Open to discussing AI/ML architecture, backend engineering, and product builds
-- 📫 Reach me at **nithinhereofficial1980@gmail.com**
+* 🔭 Currently building AI-augmented full-stack applications
+* 🌱 Deepening expertise in applied machine learning and system design
+* 💬 Open to discussing AI/ML architecture, backend engineering, and product builds
+* 📫 Reach me at **[nithinhereofficial1980@gmail.com](mailto:nithinhereofficial1980@gmail.com)**
 
 ---
 
@@ -44,17 +44,21 @@ My approach centers on writing clean, maintainable code, designing systems that 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
+**AI / ML / Tools**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,vscode&theme=dark" />
+
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning Fundamentals | ●●●●○ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ●●●○○ | Neural network design, training pipelines, framework-based model building |
-| Data Processing | ●●●●○ | Data cleaning, transformation, and pipeline design for ML-ready datasets |
-| Model Deployment | ●●●○○ | Packaging and serving models via REST APIs into full-stack applications |
-| NLP / Applied AI | ●●●○○ | Text processing pipelines and integration of AI features into products |
+| Domain                        | Proficiency | Details                                                                   |
+| ----------------------------- | :---------: | ------------------------------------------------------------------------- |
+| Machine Learning Fundamentals |    ●●●●○    | Supervised/unsupervised learning, model evaluation, feature engineering   |
+| Deep Learning                 |    ●●●○○    | Neural network design, training pipelines, framework-based model building |
+| Data Processing               |    ●●●●○    | Data cleaning, transformation, and pipeline design for ML-ready datasets  |
+| Model Deployment              |    ●●●○○    | Packaging and serving models via REST APIs into full-stack applications   |
+| NLP / Applied AI              |    ●●●○○    | Text processing pipelines and integration of AI features into products    |
 
 ---
 
@@ -71,7 +75,6 @@ Performance: Optimized client-server communication and database operations for e
 Security: JWT-based authentication, input validation, protected API routes, and environment-secured credentials
 
 </details>
-
 
 <details> <summary><b>🔹 Project Two — DevConnect</b></summary> <br/>
 
@@ -91,19 +94,43 @@ Security: JWT-based authentication, password hashing, protected routes, server-s
 
 <div align="center">
 
+<a href="https://github.com/nithinhere-dot">
+
 <img src="https://github-readme-stats.vercel.app/api?username=nithinhere-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="49%" />
+
+</a>
+
+<a href="https://github.com/nithinhere-dot">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinhere-dot&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" width="35%" />
 
-<br/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinhere-dot&theme=radical&hide_border=true&background=0D0221&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="60%" />
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+
+<img src="https://streak-stats.demolab.com/?user=nithinhere-dot&theme=radical&hide_border=true&background=0D0221&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="60%" />
+
+</a>
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithinhere-dot&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+
+</a>
+
+</div>
+
+---
 
 ## Current Focus
 
@@ -120,6 +147,7 @@ Current Focus
     - Environment configuration and production-readiness practices
 ```
 
+---
 
 ## Connect
 
